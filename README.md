@@ -1,3 +1,3 @@
 # exercise-repository
-This will make a conflict.
-Thats our job today!
+Repo made for execises 
+We resoleved the conflict!
