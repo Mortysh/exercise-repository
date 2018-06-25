@@ -1,2 +1,3 @@
 # exercise-repository
-Upload project to GitHub
+Repo made for exercises
+I make some changes here!
